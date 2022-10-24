@@ -1,0 +1,15 @@
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/yvettelerma/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll
