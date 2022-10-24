@@ -3,14 +3,25 @@
     public class Program
     {
 
-        public static void Print1000s()
-
+        public static void Main(string[] args)
         {
+            Print1000s();
+            Three();
+            Accept(10, 100);
+            OddorEven(20);
+            OddorEven(5);
+            AgeCheck();
+            InRange();
+            MultiTable();
+        }
             //LukeWarm Section: Create methods below
             //Write a method that will print to the console all numbers 1000 through - 1000
-            for (int i = 1000; i >= -1000; i--)
+            public static void Print1000s()
             {
-                Console.WriteLine(i);
+                for (int i = 1000; i >= -1000; i--)
+                {
+                    Console.WriteLine(i);
+                }
             }
             //Write a method that will print to the console numbers 3 through 999 by 3 each time
 
@@ -113,7 +124,7 @@
                     Console.WriteLine("Enter an integer");
                     userResponse = int.TryParse(Console.ReadLine(), out result);
                 } while (!userResponse);
-                    if (result >= -10 && result <= 10) ;
+                if (result >= -10 && result <= 10) ;
                 {
                     Console.WriteLine($"{result} is between -10 & 10");
                 }
@@ -129,27 +140,12 @@
                     Console.WriteLine("Enter an Integer");
                     cont = int.TryParse(Console.ReadLine(), out userInput);
                 } while (!cont);
-                for(var i = 1; i <= 12; i++)
+                for (var i = 1; i <= 12; i++)
                 {
                     Console.WriteLine($"{i} x {userInput} = {i * userInput}");
                 }
-                   
-            }
-            
-            //Call the methods to test them in the Main method below
 
-            {
-                { static void Main(string[] args();
-                    Print1000s();
-                    Three();
-                    Accept(10, 100);
-                    OddorEven(20);
-                    OddorEven(5);
-                    AgeCheck();
-                    InRange();
-                    MultiTable();
-                }
             }
+            //Call the methods to test them in the Main method below
         }
     }
-}
